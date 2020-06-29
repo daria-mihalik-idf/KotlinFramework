@@ -13,11 +13,11 @@ fun main(args: Array<String>) {
     //val pit = User()
 
     //4
-    val dasha = User("Dasha", "Mikhalik")
+    val dasha = User("Dasha", "Mikhalikk")
     dasha.login = "dariam"
     //println(dasha.login)
 
     //5
-    val bob = User("Bob", "Marley ")
+    val bob = User("Bob", "Marley")
     bob.login
 }
